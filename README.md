@@ -1,3 +1,8 @@
+# Önizleme
+
+![e-commere](https://github.com/silan4/e-commerce/assets/147344710/c95217a7-6481-45e7-b91c-4848e5546092)
+
+
 # E-commerce
  - -  Bu proje bir e-ticaret sitesidir.
  - -  Projenin genel özellikleri;
